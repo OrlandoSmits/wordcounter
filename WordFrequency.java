@@ -1,4 +1,4 @@
-public interface Wordfrequency {
+public interface WordFrequency {
 	String getWords();
 	int getFrequency();
 }
